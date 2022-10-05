@@ -82,5 +82,5 @@ function isItNear100 ( num1, num2 ) {
   else
     return "Tied";
   
-  
+// updating comments
 } // ends isItNear100
