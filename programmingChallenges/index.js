@@ -1,8 +1,6 @@
 // let userName = "Harold";
 // let userName002 = "Diandre";
 
-
-
 // for ( let i = 0; i <= 10; i++ ){
 
 //     console.log( userName + " and " + userName002 + " make great ZOOM talkers." );
